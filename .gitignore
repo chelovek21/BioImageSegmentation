@@ -1,0 +1,9 @@
+*.pyc
+datasets
+
+!datasets/**/
+!datasets/*/README.txt
+
+# PyCharm
+.idea/
+
