@@ -23,3 +23,8 @@ I suspect that the some of the metrics are not calculated right, since the score
 - [ ] Make sure active learner is working
 - [ ] Fix metrics
 - [ ] Implement NasNet cells in the network
+
+
+## Credits
+
+Shout-out to Rasmus Hvingelby, @hvingelby
