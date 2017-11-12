@@ -13,8 +13,8 @@ Download and unzip. Point to the folder in the run script(run.sh).
 
 Some output from the model:
 
-| Input         | Output        | Ground truth  |
-| ------------- |:-------------:| -------------:|
+|     Input     |    Output     |  Ground truth  |
+|:-------------:|:-------------:|:--------------:|
 |<img src="https://github.com/ellonde/BioImageSegmentation/blob/master/images/testA_1.bmp" width="250">| <img src="https://github.com/ellonde/BioImageSegmentation/blob/master/images/test_a_0.bmp" width="250"> | <img src="https://github.com/ellonde/BioImageSegmentation/blob/master/images/test_a_0_gt.bmp" width="250">
 
 TODO: description of each file
